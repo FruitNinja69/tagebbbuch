@@ -1,3 +1,4 @@
 Flask
 pytest
-gunicornpi
+gunicorn
+python-dotenv
