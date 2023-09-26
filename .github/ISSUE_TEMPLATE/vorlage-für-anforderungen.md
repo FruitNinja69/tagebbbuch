@@ -1,8 +1,8 @@
 ---
 name: Vorlage für Anforderungen
-about: Suggest an idea for this project
+about: Anforderungen
 title: ''
-labels: ''
+labels: Funktionale Anforderung, Qualitätsanforderung, Randanforderung
 assignees: ''
 
 ---
